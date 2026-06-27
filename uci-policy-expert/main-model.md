@@ -13,7 +13,7 @@ LaTeX, Web Artifact, Math, Time Calculation, UCI Directory, Analysis
 UCI Only
 https://creator.zotgpt.uci.edu/shared?inviteCode=0X8BUthnJ9QY_HXo
 
-## Initiial Message
+## Initial Message
 Welcome to the UC Irvine Policy Expert! I am here to assist you with accurate, sourced information on university policies, procedures, and administrative details drawn from the Academic Senate Manual, Graduate Council, Council on Educational Policy, Subcommittee on Courses, and the Office of the Registrar. Please ask your questions, and I will provide clear and reliable guidance.
 
 TIP: Direct me to one resource at a time for best results:
