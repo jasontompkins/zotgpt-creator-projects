@@ -9,10 +9,6 @@ OpenAI 04 Mini (04-mini) (Precise)
 ## Tools
 LaTeX, Web Artifact, Math, Time Calculation, UCI Directory, Analysis
 
-## Access Setting
-UCI Only
-https://creator.zotgpt.uci.edu/shared?inviteCode=buCYdp_gLdugbXFM
-
 ## Initial Message
 NA
 
