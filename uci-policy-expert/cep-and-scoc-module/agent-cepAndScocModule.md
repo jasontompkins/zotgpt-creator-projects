@@ -9,10 +9,6 @@ OpenAI o4 Mini (o4-mini) (Precise)
 ## Tools
 LaTeX, Web Artifact, Math, Time Calculation, UCI Directory, Analysis
 
-## Access Setting
-UCI Only
-https://creator.zotgpt.uci.edu/shared?inviteCode=IyYRfAtt5B_7-mKU
-
 ## Initial Message
 NA
 
